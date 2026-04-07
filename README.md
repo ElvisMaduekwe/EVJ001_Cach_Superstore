@@ -75,6 +75,7 @@ Transaction analysis showed that most purchases fell within the $0–$1000 range
 <img width="1114" height="512" alt="Transaction by amount" src="https://github.com/user-attachments/assets/35b424aa-2077-40e6-8b54-8570141f90eb" />
 
 Post-Analysis and Insights
+
 After analyzing the dataset, several important insights emerged.
 
 Revenue performance is uneven across regions, with stronger output in the North and East, while the West underperforms despite similar structure.
@@ -88,6 +89,7 @@ Seasonality plays a significant role, with Q4 (especially December) driving peak
 Additionally, the gap between top and low-performing sales representatives highlights an opportunity to improve overall team productivity through structured strategies.
 
 Recommendations
+
 Based on the insights, several recommendations can be made.
 
 The West region’s underperformance (20.97%) should be investigated to identify whether the issue lies in market demand, sales execution, or marketing strategy. Successful approaches from the North (32.57%) can be adapted to improve results.
